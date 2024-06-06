@@ -1,0 +1,7 @@
+tools i have been using thus far. 
+aws 
+linux
+git 
+mobaxterm
+hpptd appache
+many more to come 
